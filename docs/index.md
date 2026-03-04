@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# 正项级数 (Positive-Term Series)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本模块旨在提供正项级数收敛性判定的核心工具与理论补充。请根据学习需求选择进入以下板块：
 
-## Commands
+### [1. 阅读材料 (Reading)](reading.md)
+* **内容**：正项级数相关的理论推导、工程应用或拓展背景。
+* **用途**：用于在掌握基础计算后，加深对级数概念本质的理解。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### [2. 判别法要点复习 (Review)](review.md)
+* **内容**：汇总所有正项级数判别法（如比值法、根值法、积分法等）的数学定义与判定条件。
+* **用途**：作为定理速查表，用于核对公式准确性与边界条件。
+
+### [3. 判别法决策流程 (Strategy)](strategy.md)
+* **内容**：判断敛散性的标准化、结构化排查步骤。
+* **用途**：作为解题指南，用于在面对未知级数时快速锁定正确的判别方法。
+
